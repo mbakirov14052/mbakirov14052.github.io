@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="style2.md">
     <title>CHAMPIONS</title>
     <link rel="icon" type="image/x-icon" href="https://logos-world.net/wp-content/uploads/2021/08/Champion-Logo.png">
 </head>
